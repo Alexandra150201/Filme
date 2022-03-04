@@ -1,0 +1,21 @@
+[2021-05-10 10:27:16] [info] Start Program:
+Path:"C:\\Users\\user\\OneDrive\\Desktop\\poo\\lab10-11\\Filme\\x64\\Debug\\Filme.exe"
+Arguments:
+Working directory: "C:\\Users\\user\\OneDrive\\Desktop\\poo\\lab10-11\\Filme\\"
+Modules: Selected: C:\Users\user\OneDrive\Desktop\poo\lab10-11\Filme\x64\Debug\Filme.exe Excluded: 
+Sources: Selected: C:\Users\user\OneDrive\Desktop\poo\lab10-11\Filme Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\user\AppData\Local\Temp\5vdvuc2g.bhs 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-05-10 10:27:16] [info] Module: C:\Users\user\OneDrive\Desktop\poo\lab10-11\Filme\x64\Debug\Filme.exe is selected because it matches selected pattern: C:\Users\user\OneDrive\Desktop\poo\lab10-11\Filme\x64\Debug\Filme.exe
+[2021-05-10 10:27:18] [info] ----------------------------------------------------
+[2021-05-10 10:27:18] [info] Coverage binary generated in file: C:\Users\user\AppData\Local\Temp\5vdvuc2g.bhs
+[2021-05-10 10:27:18] [info] ----------------------------------------------------
